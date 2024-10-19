@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322917015702",
+    "project_id": "software-tech-4b9b5",
+    "storage_bucket": "software-tech-4b9b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322917015702:android:3e012ab19f564f08dc22b7",
+        "android_client_info": {
+          "package_name": "com.example.ogrencipaneli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALh5g_mJVV55RbJ7AcjvZbhGAkQr7dNh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
